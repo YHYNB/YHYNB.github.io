@@ -1,0 +1,11 @@
+.one{
+font-size:300%;
+color:red;
+}
+#yeah a:hover{	background: url(symbol.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+#yeah{
+	font-size:300%;
+}
